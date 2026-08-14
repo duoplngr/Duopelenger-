@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "2plngr",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Duopelenger",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/Duopelenger/",
+  "description": "Aplikasi Cyberpunk HD Video Generator"
+}
